@@ -7,5 +7,7 @@ pkg instoll git
 git clone https://github.com/RH0099/M-A-Ddos.git
 cd M-A-Ddos
 python main.py
+&&
 RH
+&&
 RH
